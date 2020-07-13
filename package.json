@@ -1,0 +1,14 @@
+{
+  "name": "nocolor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:evansmwendwa/nocolor.git",
+  "author": "Evans Mwendwa <evans.mwendwa@twiga.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "sass": "^1.26.10"
+  },
+  "dependencies": {
+    "typing-effect": "^1.1.1"
+  }
+}
