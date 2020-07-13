@@ -5,7 +5,12 @@
   "repository": "git@github.com:evansmwendwa/nocolor.git",
   "author": "Evans Mwendwa <evans.mwendwa@twiga.com>",
   "license": "MIT",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
   "devDependencies": {
+    "cssnano": "^4.1.10",
     "sass": "^1.26.10"
   },
   "dependencies": {
